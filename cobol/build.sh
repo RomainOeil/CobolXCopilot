@@ -1,0 +1,1 @@
+cobc -x src/main.cob src/operations.cob src/data.cob -o accountsystem

@@ -1,6 +1,6 @@
-# Test Plan for COBOL Application
+# Test Plan for Python Application
 
-This test plan outlines the business logic and scenarios that need to be validated with the business stakeholders. Once validated, you can use this plan to create unit tests and integration tests for the Python application.
+This test plan has the objective to test the program in its ability to reproduce the behaviour of the original Cobol Application. The goal of the project is to convert the Cobol code into Python, and, to ensure complete compatibility with potential others solutions, the behaviour of the Python program replicate the behaviour of the Cobol program.
 
 | Test Case ID | Test Case Description                          | Pre-conditions       | Test Steps                                                                 | Expected Result                                                                 | Actual Result | Status (Pass/Fail) | Comments |
 |--------------|------------------------------------------------|----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------|--------------------|----------|
