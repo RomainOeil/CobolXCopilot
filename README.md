@@ -1,4 +1,4 @@
-[![Python application](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml/badge.svg)](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml)
+[![Python application](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml/badge.svg)](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml) [![Coverage Status](https://coveralls.io/repos/github/RomainOeil/CobolXCopilot/badge.svg?branch=main)](https://coveralls.io/github/RomainOeil/CobolXCopilot?branch=main)
 
 # CobolXCopilot
 
