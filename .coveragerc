@@ -8,3 +8,4 @@ omit =
     cobol/*
     python/src/test_*.py
     */__init__.py
+    python/src/main.py
