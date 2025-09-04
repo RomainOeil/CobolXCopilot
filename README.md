@@ -1,3 +1,5 @@
+[![Python application](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml/badge.svg)](https://github.com/RomainOeil/CobolXCopilot/actions/workflows/python-app.yml)
+
 # CobolXCopilot
 
 **It is expected to run the command from the root of the Github repo**
