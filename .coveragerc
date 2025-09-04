@@ -1,0 +1,10 @@
+[run]
+branch = True
+source = python/src
+
+[report]
+omit =
+    tests/*
+    cobol/*
+    */test_operations.py
+    */__init__.py
